@@ -1,4 +1,4 @@
-# eBook Project
+# eBook Reader Project
 ## Winter 2017
 
 ### Participants: Alexis
