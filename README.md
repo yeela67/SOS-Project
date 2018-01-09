@@ -1,23 +1,10 @@
 # eBook Project
 ## Winter 2017
 
-### Week 1
+### Participants: Alexis
 
-### Week 2
-
-### Week 3
-
-### Week 4
-
-### Week 5
-
-### Week 6
-
-### Week 7
-
-### Week 8
-
-### Week 9
-
-### Week 10
-
+* [Proposal]("")
+* [Timeline]("")
+* [Journal]("")
+* [Bibliography]("")
+* [Samples]("")
