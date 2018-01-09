@@ -3,8 +3,8 @@
 
 ### Participants: Alexis
 
-* [Proposal]("")
-* [Timeline]("")
-* [Journal]("")
-* [Bibliography]("")
-* [Samples]("")
+* [Proposal](Proposal.txt)
+* [Timeline](Timeline.txt)
+* [Journal](Journal.txt)
+* [Bibliography](Bibliography.txt)
+* [Samples](Samples.txt)
