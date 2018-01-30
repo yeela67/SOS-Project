@@ -2,6 +2,4 @@
 
 #  Bibliography
 
-1. Ref 1 : summary
-2. Ref 2 : summary
-3. Ref 3 : summary
+1.  Daly, Liza. “Build a Digital Book with EPUB.” *IBM*, IBM DeveloperWorks, 13 July 2011, www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html.
