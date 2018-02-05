@@ -3,15 +3,15 @@
 # Timeline
 
 
-| Week          | Activity      | Comments  |
-| ------------- |:-------------:| ---------:|
-| 1    |Setting up online journal and getting back into the flow of SOS by reviewing my project proposal and resources.| no problems  |
-| 2    |Researching and testing more resources for my project on various sites.|  no problems  |
-| 3    | Begin coding epub file handler that extracts and saves the pertinent epub file information.  | Learning to use Beautiful Soup to parse xml files. |
-| 4    | Activity 4 | no problems  |
-| 5    | Activity 5 | no problems  |
-| 6    | Activity 6 | no problems  |
-| 7    | Activity 7 | no problems  |
-| 8    | Activity 8 | no problems  |
-| 9    | Activity 9 | no problems  |
-| 10   | Activity 10 | no problems  |
+| Week          | Activity      |
+| ------------- |:-------------:|
+| 1    |Setting up online journal and getting back into the flow of SOS by reviewing my project proposal and resources.|
+| 2    |Researching and testing more resources for my project on various sites.|
+| 3    |Begin coding epub file handler that extracts and saves the pertinent epub file information.|
+| 4    |Start building up a GUI for my ePub.|
+| 5    |Continue refining the application GUI and start testing it with code.|
+| 6    |Do more GUI work, paying special attention to typography and layout.|
+| 7    |Start adding more advanced features such as an "open in" feature and bookmarks.|
+| 8    |Continue to add and debug advanced features.|
+| 9    |Continue to add and debug advanced features.|
+| 10   |Debug prototype and present the quarter's overall work.|
