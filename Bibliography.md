@@ -7,6 +7,9 @@
 
 3. Apple. “iBooks.” *iTunes*, Apple Inc., https://itunes.apple.com/us/app/ibooks/id364709193?mt=8/.
 
+3.  Baird, David. “HOWTO Create Python GUIs Using HTML.” *Aclevername*, Aclevername, 21 Mar. 2013, www.aclevername.com/articles/python-webgui/#overview.
+
+
 4. Brownlee, John. “The Kindle Finally Gets Typography That Doesn't Suck.” *Co.Design*, Co.Design, 27 May 2015, www.fastcodesign.com/3046678/the-kindle-finally-gets-typography-that-doesnt-suck.
 
 5.  Daly, Liza. “Build a Digital Book with EPUB.” *IBM*, IBM DeveloperWorks, 13 July 2011, www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html.
@@ -29,6 +32,8 @@
 12. Multiple Users. “How Do I Make an Online EBook Reader?” *Quora*, Quora, 18 Apr. 2014, www.quora.com/How-do-I-make-an-online-eBook-reader.
 
 13. Multiple Users. “Reading EPub Format.” *Stack Overflow*, Stack Overflow, 2 June 2011, www.stackoverflow.com/questions/1388467/reading-epub-format.
+
+14.  Pölsterl, Sebastian. “The Python GTK+ 3 Tutorial.” *Python GTK+ 3 Tutorial*, Sebastian Pölsterl, 6 Feb. 2018, https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html.
 
 14. Reichenstein, Oliver. “Designing for IPad: Reality Check.” *IA*, IA Inc, 12 Apr. 2010, www.ia.net/topics/designing-for-ipad-reality-check/.
 
