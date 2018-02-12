@@ -19,6 +19,9 @@
 
 9. Gajula, Nagaraju. “Android Application Development: How Do I Develop an Ebook Reader Android App?” *Quora*, Quora, 30 June 2016, www.quora.com/Android-Application-Development-How-do-I-develop-an-ebook-reader-Android-app.
 
+10. gnu.org. “Python Webkit DOM Bindings.” *Python Webkit DOM Bindings*, GNU Operating System, 25 Nov. 2010, www.gnu.org/software/pythonwebkit/.
+
+
 10. Michaldaniel. “Easy-Ebook-Viewer.” *GitHub*, 16 Mar. 2017, https://github.com/michaldaniel/Ebook-Viewer.
 
 11. Mod, Craig. “How To Fix Today's Ebook Readers.” *Gizmodo*, Gizmodo.com, 22 Apr. 2010, www.gizmodo.com/5522341/how-to-fix-todays-ebook-readers.
