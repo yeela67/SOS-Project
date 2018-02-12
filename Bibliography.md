@@ -24,7 +24,6 @@
 
 10. gnu.org. “Python Webkit DOM Bindings.” *Python Webkit DOM Bindings*, GNU Operating System, 25 Nov. 2010, www.gnu.org/software/pythonwebkit/.
 
-
 10. Michaldaniel. “Easy-Ebook-Viewer.” *GitHub*, 16 Mar. 2017, https://github.com/michaldaniel/Ebook-Viewer.
 
 11. Mod, Craig. “How To Fix Today's Ebook Readers.” *Gizmodo*, Gizmodo.com, 22 Apr. 2010, www.gizmodo.com/5522341/how-to-fix-todays-ebook-readers.
@@ -36,6 +35,8 @@
 14.  Pölsterl, Sebastian. “The Python GTK+ 3 Tutorial.” *Python GTK+ 3 Tutorial*, Sebastian Pölsterl, 6 Feb. 2018, https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html.
 
 14. Reichenstein, Oliver. “Designing for IPad: Reality Check.” *IA*, IA Inc, 12 Apr. 2010, www.ia.net/topics/designing-for-ipad-reality-check/.
+
+15. Richardson, Leonard. “Beautiful Soup.” *Crummy: The Site*, Crummy, 11 Aug. 2017, www.crummy.com/software/BeautifulSoup/.
 
 15. Sreelal. “Epub Reader.” *IDeveloper World*, IDeveloper World, 13 Feb. 2011, www.ideveloperworld.blogspot.com/2011/02/epub-reader.html.
 
