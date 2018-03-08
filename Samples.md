@@ -2,6 +2,7 @@
 
 # Samples
 
+## Book object partial code
 ```python
 from bs4 import BeautifulSoup as beaut_soup
 import os
@@ -58,3 +59,10 @@ class Book:
         self.__extract_spine__()
         self.__read__()
 ```
+
+## Screenshots
+### Regular Mode
+
+### Solarized Light Mode
+
+### Solarized Dark Mode
