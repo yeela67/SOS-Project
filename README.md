@@ -3,6 +3,7 @@
 
 ### Participants: Alexis
 
+* [Final Status Report](/FinalStatusReport.md)
 * [Proposal](/Proposal.md)
 * [Timeline](/Timeline.md)
 * [Journal](/Journal.md)
