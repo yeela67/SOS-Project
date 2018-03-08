@@ -38,7 +38,7 @@
 
 15. Richardson, Leonard. “Beautiful Soup.” *Crummy: The Site*, Crummy, 11 Aug. 2017, www.crummy.com/software/BeautifulSoup/.
 
-15.  Schoonover, Ethan. “Solarized.” *Ethan Schoonover*, Ethan Schoonover, 6 Apr. 2011, ethanschoonover.com/solarized. 
+15.  Schoonover, Ethan. “Solarized.” *Ethan Schoonover*, Ethan Schoonover, 6 Apr. 2011, www.ethanschoonover.com/solarized. 
 
 15. Sreelal. “Epub Reader.” *IDeveloper World*, IDeveloper World, 13 Feb. 2011, www.ideveloperworld.blogspot.com/2011/02/epub-reader.html.
 
