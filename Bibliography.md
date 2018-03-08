@@ -36,6 +36,8 @@
 
 14.  Pölsterl, Sebastian. “The Python GTK+ 3 Tutorial.” *Python GTK+ 3 Tutorial*, Sebastian Pölsterl, 6 Feb. 2018, https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html.
 
+14.  Refsnes Data. “W3Schools.” *W3Schools.Com*, Refsnes Data, 2018, www.w3schools.com/. 
+
 14. Reichenstein, Oliver. “Designing for IPad: Reality Check.” *IA*, IA Inc, 12 Apr. 2010, www.ia.net/topics/designing-for-ipad-reality-check/.
 
 15. Richardson, Leonard. “Beautiful Soup.” *Crummy: The Site*, Crummy, 11 Aug. 2017, www.crummy.com/software/BeautifulSoup/.
