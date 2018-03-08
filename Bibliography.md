@@ -32,7 +32,7 @@
 
 13. Multiple Users. “Reading EPub Format.” *Stack Overflow*, Stack Overflow, 2 June 2011, www.stackoverflow.com/questions/1388467/reading-epub-format.
 
-13.  Omz:software. “Pythonista 3.” *Pythonista for IOS*, 3.0, Omz:Software, 2016, omz-software.com/pythonista/. 
+13.  Omz:software. “Pythonista 3.” *Pythonista for IOS*, 3.0, Omz:Software, 2016, www.omz-software.com/pythonista/. 
 
 14.  Pölsterl, Sebastian. “The Python GTK+ 3 Tutorial.” *Python GTK+ 3 Tutorial*, Sebastian Pölsterl, 6 Feb. 2018, https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html.
 
