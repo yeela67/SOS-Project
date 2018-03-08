@@ -6,6 +6,8 @@
 2. AMZN Mobile LLC. “Amazon Kindle.” *iTunes*, 6.0.3, Amazon.com, 6 Nov. 2017, https://itunes.apple.com/us/app/amazon-kindle/id302584613?mt=8.
 
 3. Apple. “iBooks.” *iTunes*, Apple Inc., https://itunes.apple.com/us/app/ibooks/id364709193?mt=8/.
+ 
+3. Appstafarian. “Marvin 3.” *iTunes*, 3.1.2, Appstafarian, 11 Oct. 2017, https://itunes.apple.com/app/id1086482858. 
 
 3.  Baird, David. “HOWTO Create Python GUIs Using HTML.” *Aclevername*, Aclevername, 21 Mar. 2013, www.aclevername.com/articles/python-webgui/#overview.
 
@@ -24,6 +26,8 @@
 
 10. gnu.org. “Python Webkit DOM Bindings.” *Python Webkit DOM Bindings*, GNU Operating System, 25 Nov. 2010, www.gnu.org/software/pythonwebkit/.
 
+10. Ingram, Lucy. “And The Winner Is… Best EBook Reading App.” *Cult of Mac*, Cult of Mac, 25 Mar. 2014, www.cultofmac.com/269542/winner-best-ebook-reading-app/. 
+
 10. Michaldaniel. “Easy-Ebook-Viewer.” *GitHub*, 16 Mar. 2017, https://github.com/michaldaniel/Ebook-Viewer.
 
 11. Mod, Craig. “How To Fix Today's Ebook Readers.” *Gizmodo*, Gizmodo.com, 22 Apr. 2010, www.gizmodo.com/5522341/how-to-fix-todays-ebook-readers.
@@ -37,6 +41,8 @@
 14.  Pölsterl, Sebastian. “The Python GTK+ 3 Tutorial.” *Python GTK+ 3 Tutorial*, Sebastian Pölsterl, 6 Feb. 2018, https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html.
 
 14.  PythonAnywhere LLP. “pythonanywhere.” *pythonanywhere*, PythonAnywhere LLP, 2017, www.pythonanywhere.com/. 
+
+14.  Readmill. “Readmill Blog.” *Readmill Blog*, Readmill.com, 28 Mar. 2014, www.blog.readmill.com/. 
 
 14.  Refsnes Data. “W3Schools.” *W3Schools.Com*, Refsnes Data, 2018, www.w3schools.com/. 
 
