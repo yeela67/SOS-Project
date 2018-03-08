@@ -10,8 +10,6 @@ import zipfile
 
 """
 Creates a Book object from an epub file.
-
-Version: January 2018
 """
 class Book:
 
@@ -33,10 +31,15 @@ class Book:
         # Instance variables unique to each instance
         self.root_file_path = ''
         self.root_file_OPF = None
+        self.opf_directory = ''
 
         self.metadata = dict()
         self.manifest_items = dict()
         self.reading_order = list()
+        self.base_xml_files = list()
+        self.toc = None
+        self.toc_navPoints = list()
+        self.chapter_links = list()
 
         # unzip the epub file
         self.book_file = zipfile.ZipFile(epub)
@@ -57,12 +60,17 @@ class Book:
         # getting book content
         self.__extract_manifest__()
         self.__extract_spine__()
-        self.__read__()
+        self.__getOPF__()
+        self.__extract_xml_files__()
+        self.__extract_chapter_links__()
 ```
 
 ## Screenshots
 ### Regular Mode
+![alt text](https://github.com/yeela67/SOS-project/raw/master/screenshots/regular.PNG "Regular")
 
 ### Solarized Light Mode
+![alt text](https://github.com/yeela67/SOS-project/raw/master/screenshots/solarizedlight.PNG "Solarized Light")
 
 ### Solarized Dark Mode
+![alt text](https://github.com/yeela67/SOS-project/raw/master/screenshots/solarizeddark.PNG "Solarized Dark")
