@@ -2,7 +2,7 @@
 
 # Final Status Report
 
-[Supporting Slides](https://github.com/yeela67/SOS-project/raw/master/files/SOSProject.pptx)
+[Download Supporting Slides](https://github.com/yeela67/SOS-project/raw/master/files/SOSProject.pptx)
 
 ## Project Overview
 
