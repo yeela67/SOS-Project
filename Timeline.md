@@ -11,7 +11,7 @@
 | 4    |Start building up a GUI for my ePub.|
 | 5    |Continue refining the application GUI and start testing it with code.|
 | 6    |Do more GUI work, paying special attention to typography and layout.|
-| 7    |Start adding more advanced features such as an "open in" feature and bookmarks.|
+| 7    |[NOTE: This is where my actual work started to deviate from my time line.](/Journal.md) Original: Start adding more advanced features such as an "open in" feature and bookmarks.|
 | 8    |Continue to add and debug advanced features.|
 | 9    |Continue to add and debug advanced features.|
 | 10   |Debug prototype and present the quarter's overall work.|
